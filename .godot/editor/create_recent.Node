@@ -1,0 +1,4 @@
+MeshInstance2D
+CollisionShape2D
+Node
+CharacterBody2D

@@ -1,35 +1,34 @@
 [remap]
 
 importer="texture"
-type="StreamTexture"
-path="res://.import/repel proj2.png-a513e60473a288a11cd0bb1180addc74.stex"
+type="CompressedTexture2D"
+uid="uid://dep3toy6oiyt1"
+path="res://.godot/imported/repel proj2.png-efcb78a1f6c5b77e2b35537c5770a9c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Frames/Personnages/Mystique/2/repel proj2.png"
-dest_files=[ "res://.import/repel proj2.png-a513e60473a288a11cd0bb1180addc74.stex" ]
+source_file="res://frames/Personnages/Mystique/2/repel proj2.png"
+dest_files=["res://.godot/imported/repel proj2.png-efcb78a1f6c5b77e2b35537c5770a9c8.ctex"]
 
 [params]
 
 compress/mode=0
+compress/high_quality=false
 compress/lossy_quality=0.7
-compress/hdr_mode=0
-compress/bptc_ldr=0
+compress/hdr_compression=1
 compress/normal_map=0
-flags/repeat=0
-flags/filter=false
-flags/mipmaps=false
-flags/anisotropic=false
-flags/srgb=2
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
 process/fix_alpha_border=true
 process/premult_alpha=false
-process/HDR_as_SRGB=false
-process/invert_color=false
 process/normal_map_invert_y=false
-stream=false
-size_limit=0
-detect_3d=false
-svg/scale=1.0
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

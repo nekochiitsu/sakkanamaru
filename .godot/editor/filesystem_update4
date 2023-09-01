@@ -1,0 +1,9 @@
+res://Scenes/Global/App.tscn
+res://Scripts/Global/NotificationBar.gd
+res://Scripts/network/network.gd
+res://Scripts/Global/Player 1.gd
+res://Scripts/Global/Player 2.gd
+res://Scripts/Global/MainMenu.gd
+res://Game/Entities/Player/player.tscn
+res://Game/Entities/Player/characters/champion.gd
+res://Game/Entities/Player/player.gd

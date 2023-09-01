@@ -1,0 +1,40 @@
+[gd_scene load_steps=8 format=3 uid="uid://8yrv1bpwxomy"]
+
+[ext_resource type="Script" path="res://Game/Entities/Player/player.gd" id="1_4fhat"]
+[ext_resource type="Script" path="res://Game/Entities/Player/characters/champion.gd" id="2_hsph1"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_eor14"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_mjbfn"]
+material = SubResource("StandardMaterial3D_eor14")
+size = Vector3(16, 16, 0)
+
+[sub_resource type="Gradient" id="Gradient_amryf"]
+interpolation_mode = 1
+offsets = PackedFloat32Array(0, 0.5)
+colors = PackedColorArray(0.82606, 0.82606, 0.82606, 1, 0.0475577, 0.0475576, 0.0475576, 1)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_fk8rf"]
+gradient = SubResource("Gradient_amryf")
+width = 32
+height = 32
+fill_to = Vector2(0.1, 0.1)
+repeat = 1
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_wqymp"]
+radius = 8.0
+
+[node name="Player" type="Node"]
+script = ExtResource("1_4fhat")
+
+[node name="Champion" type="CharacterBody2D" parent="."]
+script = ExtResource("2_hsph1")
+
+[node name="Mesh" type="MeshInstance2D" parent="Champion"]
+texture_filter = 1
+rotation = 3.14159
+mesh = SubResource("BoxMesh_mjbfn")
+texture = SubResource("GradientTexture2D_fk8rf")
+
+[node name="Collision" type="CollisionShape2D" parent="Champion"]
+shape = SubResource("CircleShape2D_wqymp")

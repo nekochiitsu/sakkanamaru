@@ -1,35 +1,34 @@
 [remap]
 
 importer="texture"
-type="StreamTexture"
-path="res://.import/AoE proj4.png-61bc4cc3663699cc00c94da4c1279da6.stex"
+type="CompressedTexture2D"
+uid="uid://cenwpt1q1p6a5"
+path="res://.godot/imported/AoE proj4.png-fd33030234f9bcd62dae49bc0d5aae88.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Frames/Personnages/Mystique/4/AoE proj4.png"
-dest_files=[ "res://.import/AoE proj4.png-61bc4cc3663699cc00c94da4c1279da6.stex" ]
+source_file="res://frames/Personnages/Mystique/4/AoE proj4.png"
+dest_files=["res://.godot/imported/AoE proj4.png-fd33030234f9bcd62dae49bc0d5aae88.ctex"]
 
 [params]
 
 compress/mode=0
+compress/high_quality=false
 compress/lossy_quality=0.7
-compress/hdr_mode=0
-compress/bptc_ldr=0
+compress/hdr_compression=1
 compress/normal_map=0
-flags/repeat=0
-flags/filter=false
-flags/mipmaps=false
-flags/anisotropic=false
-flags/srgb=2
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
 process/fix_alpha_border=true
 process/premult_alpha=false
-process/HDR_as_SRGB=false
-process/invert_color=false
 process/normal_map_invert_y=false
-stream=false
-size_limit=0
-detect_3d=false
-svg/scale=1.0
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
