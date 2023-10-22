@@ -1,10 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1693582963
+::res://::1698012741
 icon.png::CompressedTexture2D::1619538590323817690::1636892764::1693580215::1::::<><>::
 README.md::TextFile::-1::1693580093::0::1::::<><>::
-::res://fonts/::1693582980
+::res://fonts/::1693582996
 retro_gaming.ttf::FontFile::7421363358072412686::1636892764::1693582996::1::::<><>::
-::res://frames/::1693580215
+::res://frames/::1693582997
 Cursor.png::CompressedTexture2D::4471697624264898940::1636892764::1693582997::1::::<><>::
 Impact2.png::CompressedTexture2D::6626634660358825507::1636892764::1693582997::1::::<><>::
 Impact3.png::CompressedTexture2D::4549074066077733513::1636892764::1693582997::1::::<><>::
@@ -21,30 +21,30 @@ Nion2.png::CompressedTexture2D::7026136734930473122::1636892764::1693582997::1::
 Nion3.png::CompressedTexture2D::5266302192719669214::1636892764::1693582997::1::::<><>::
 unknown.png::CompressedTexture2D::1775773618719015432::1636892764::1693582997::1::::<><>::
 Wall.png::CompressedTexture2D::2845550670794732226::1636892764::1693582997::1::::<><>::
-::res://frames/Background/::1693580216
+::res://frames/Background/::1693582997
 Background.png::CompressedTexture2D::6353786717211969555::1636993220::1693582997::1::::<><>::
 Base.png::CompressedTexture2D::8150321266662623456::1636892764::1693582997::1::::<><>::
 Bg champ select.png::CompressedTexture2D::7049826784177730349::1637068034::1693582997::1::::<><>::
-::res://frames/Background/Background/::1693580216
+::res://frames/Background/Background/::1693582997
 barrieres derriere.png::CompressedTexture2D::3750188387070020671::1638807538::1693582997::1::::<><>::
 barrieres devant.png::CompressedTexture2D::1195188922237885971::1638807536::1693582997::1::::<><>::
 barrieres.png::CompressedTexture2D::7829139827249710946::1638807134::1693582997::1::::<><>::
 eau.png::CompressedTexture2D::2997117617226926981::1638807134::1693582997::1::::<><>::
 sol.png::CompressedTexture2D::1917332547188384280::1638807134::1693582997::1::::<><>::
-::res://frames/Champ select/::1693580216
+::res://frames/Champ select/::1693582997
 curseur lock.png::CompressedTexture2D::4019177515037389796::1636995186::1693582997::1::::<><>::
 Icone Archer.png::CompressedTexture2D::8443542389427444395::1641556896::1693582997::1::::<><>::
 Icone Aventurier.png::CompressedTexture2D::2560046492556317679::1641556898::1693582997::1::::<><>::
 Icone Mystique.png::CompressedTexture2D::4061751853042711895::1651667150::1693582997::1::::<><>::
 Icone Nya.png::CompressedTexture2D::9055282774371106772::1641556896::1693582997::1::::<><>::
 Icone Sniper.png::CompressedTexture2D::1312387538492040248::1641556896::1693582997::1::::<><>::
-::res://frames/Champ select/champs/::1693580216
+::res://frames/Champ select/champs/::1693582997
 Archer.png::CompressedTexture2D::1223253362023431695::1639047888::1693582997::1::::<><>::
 Aventurier.png::CompressedTexture2D::729883388630898786::1639047888::1693582997::1::::<><>::
 mystique.png::CompressedTexture2D::755060184808037255::1651667364::1693582997::1::::<><>::
 nya.png::CompressedTexture2D::1605997970758647660::1639047888::1693582997::1::::<><>::
 Sniper.png::CompressedTexture2D::7542040303335015458::1641386080::1693582997::1::::<><>::
-::res://frames/Champ select/curseur/::1693580216
+::res://frames/Champ select/curseur/::1693582997
 curseur1.png::CompressedTexture2D::7406228010831283662::1636993312::1693582997::1::::<><>::
 curseur2.png::CompressedTexture2D::274576765397357650::1636993312::1693582997::1::::<><>::
 curseur3.png::CompressedTexture2D::3608400581806720851::1636993312::1693582997::1::::<><>::
@@ -66,13 +66,13 @@ curseur18.png::CompressedTexture2D::6688601205433412460::1636993312::1693582997:
 curseur19.png::CompressedTexture2D::6142009579995205106::1636993312::1693582997::1::::<><>::
 curseur20.png::CompressedTexture2D::9186714008234340926::1636993312::1693582997::1::::<><>::
 ::res://frames/Personnages/::1693580138
-::res://frames/Personnages/Archer/::1693580216
+::res://frames/Personnages/Archer/::1693582998
 archer ded.png::CompressedTexture2D::10065066856888415::1636892764::1693582998::1::::<><>::
 Fleche.png::CompressedTexture2D::4851755413049994525::1636892764::1693582998::1::::<><>::
-::res://frames/Personnages/Archer/Animations/::1693580216
+::res://frames/Personnages/Archer/Animations/::1693582998
 archer dash.png::CompressedTexture2D::5744421768065304601::1636892764::1693582998::1::::<><>::
 Stand.png::CompressedTexture2D::1214260534856587342::1636892764::1693582998::1::::<><>::
-::res://frames/Personnages/Archer/Animations/Lazer/::1693580216
+::res://frames/Personnages/Archer/Animations/Lazer/::1693582997
 (1).png::CompressedTexture2D::2757895799947993899::1636892764::1693582997::1::::<><>::
 (2).png::CompressedTexture2D::8638984471221572535::1636892764::1693582997::1::::<><>::
 (3).png::CompressedTexture2D::8800684338124035919::1636892764::1693582997::1::::<><>::
@@ -85,24 +85,24 @@ Stand.png::CompressedTexture2D::1214260534856587342::1636892764::1693582998::1::
 (10).png::CompressedTexture2D::3498788840628230484::1636892764::1693582997::1::::<><>::
 (11).png::CompressedTexture2D::3069819714442333452::1636892764::1693582997::1::::<><>::
 (12).png::CompressedTexture2D::2461819043413484033::1636892764::1693582997::1::::<><>::
-::res://frames/Personnages/Archer/Animations/Shoot/::1693580216
+::res://frames/Personnages/Archer/Animations/Shoot/::1693582998
 (0).png::CompressedTexture2D::5154596465962520175::1636892764::1693582998::1::::<><>::
 archer tir V2.png::CompressedTexture2D::7161095059384807276::1636892764::1693582998::1::::<><>::
-::res://frames/Personnages/Archer/Animations/Shoot/Release/::1693580216
+::res://frames/Personnages/Archer/Animations/Shoot/Release/::1693582998
 (0).png::CompressedTexture2D::7552558086109510506::1636892764::1693582997::1::::<><>::
 archer Tirer fleche V2 2.png::CompressedTexture2D::7994049769410950033::1636892764::1693582998::1::::<><>::
-::res://frames/Personnages/Archer/Animations/Walk Right/::1693580216
+::res://frames/Personnages/Archer/Animations/Walk Right/::1693582998
 (1).png::CompressedTexture2D::2151541315276717196::1636892764::1693582998::1::::<><>::
 (2).png::CompressedTexture2D::7665565471120264841::1636892764::1693582998::1::::<><>::
 (3).png::CompressedTexture2D::1170860723277640786::1636892764::1693582998::1::::<><>::
 (4).png::CompressedTexture2D::9029863115484594385::1636892764::1693582998::1::::<><>::
 (5).png::CompressedTexture2D::8984433978855470808::1636892764::1693582998::1::::<><>::
-::res://frames/Personnages/Aventurier/::1693580216
+::res://frames/Personnages/Aventurier/::1693582998
 Aventurier .png::CompressedTexture2D::8747031588121761208::1636892764::1693582997::1::::<><>::
 Aventurier E.png::CompressedTexture2D::7588112480997749617::1636892764::1693582997::1::::<><>::
 Aventurier Q.png::CompressedTexture2D::8413049470559705855::1636892764::1693582998::1::::<><>::
 Aventurier W.png::CompressedTexture2D::2139074858681159456::1636892764::1693582998::1::::<><>::
-::res://frames/Personnages/Aventurier/bras Q/::1693580216
+::res://frames/Personnages/Aventurier/bras Q/::1693582998
 bras Q1.png::CompressedTexture2D::6989242808895719186::1636892764::1693582998::1::::<><>::
 bras Q2.png::CompressedTexture2D::6313243210095158016::1636892764::1693582998::1::::<><>::
 bras Q3.png::CompressedTexture2D::7517053965623089135::1636892764::1693582998::1::::<><>::
@@ -111,7 +111,7 @@ bras Q5.png::CompressedTexture2D::6932679773379402032::1636892764::1693582998::1
 bras Q6.png::CompressedTexture2D::9212629955405994827::1636892764::1693582998::1::::<><>::
 bras Q7.png::CompressedTexture2D::2898676336434585234::1636892764::1693582998::1::::<><>::
 bras Q8.png::CompressedTexture2D::1842713427029415427::1636892764::1693582998::1::::<><>::
-::res://frames/Personnages/Aventurier/marche/::1693580216
+::res://frames/Personnages/Aventurier/marche/::1693582998
 Aventurier marche1.png::CompressedTexture2D::8911202202907053196::1636892764::1693582998::1::::<><>::
 Aventurier marche2.png::CompressedTexture2D::750862718223428739::1636892764::1693582998::1::::<><>::
 Aventurier R1.png::CompressedTexture2D::1919620046303425188::1636892764::1693582998::1::::<><>::
@@ -125,7 +125,7 @@ Aventurier R8.png::CompressedTexture2D::9120610579343285168::1636892764::1693582
 Aventurier R9.png::CompressedTexture2D::2175084936504769930::1636892764::1693582997::1::::<><>::
 Aventurier R10.png::CompressedTexture2D::7791230890006999342::1636892764::1693582997::1::::<><>::
 Aventurier R11.png::CompressedTexture2D::3700166293068136443::1636892764::1693582997::1::::<><>::
-::res://frames/Personnages/Aventurier/R/::1693580216
+::res://frames/Personnages/Aventurier/R/::1693582998
 Aventurier R1.png::CompressedTexture2D::3959753678811773476::1636892764::1693582997::1::::<><>::
 Aventurier R2.png::CompressedTexture2D::5818999463105930654::1636892764::1693582997::1::::<><>::
 Aventurier R3.png::CompressedTexture2D::2709571104671184186::1636892764::1693582997::1::::<><>::
@@ -136,54 +136,54 @@ Aventurier R7.png::CompressedTexture2D::4578737140766189480::1636892764::1693582
 Aventurier R8.png::CompressedTexture2D::6624728769895647383::1636892764::1693582997::1::::<><>::
 Aventurier R9.png::CompressedTexture2D::1916819534175032169::1636892764::1693582997::1::::<><>::
 Aventurier R10.png::CompressedTexture2D::1399271573190468343::1636892764::1693582997::1::::<><>::
-::res://frames/Personnages/Aventurier/W/::1693580216
+::res://frames/Personnages/Aventurier/W/::1693582998
 W1.png::CompressedTexture2D::8269744830514546964::1636892764::1693582997::1::::<><>::
 W2.png::CompressedTexture2D::7403306456798099871::1636892764::1693582997::1::::<><>::
 W3.png::CompressedTexture2D::2462664152856817718::1636892764::1693582997::1::::<><>::
 W4.png::CompressedTexture2D::3041485198049434585::1636892764::1693582997::1::::<><>::
-::res://frames/Personnages/Mystique/::1693580215
+::res://frames/Personnages/Mystique/::1693582997
 anchor.png::CompressedTexture2D::5355173083700706196::1651740594::1693582997::1::::<><>::
 guided proj.png::CompressedTexture2D::7585678374007978184::1651667778::1693582997::1::::<><>::
 laser.png::CompressedTexture2D::285785433933048908::1651667778::1693582997::1::::<><>::
 mystique cast.png::CompressedTexture2D::3615309926821917169::1651739260::1693582997::1::::<><>::
 mystique.png::CompressedTexture2D::8260041659428936281::1651739258::1693582997::1::::<><>::
-::res://frames/Personnages/Mystique/2/::1693580216
+::res://frames/Personnages/Mystique/2/::1693582998
 repel proj1.png::CompressedTexture2D::7632074180453750151::1651667778::1693582998::1::::<><>::
 repel proj2.png::CompressedTexture2D::7472717871653741056::1651667778::1693582998::1::::<><>::
 repel proj3.png::CompressedTexture2D::3645385625531132132::1651667778::1693582997::1::::<><>::
-::res://frames/Personnages/Mystique/4/::1693580215
+::res://frames/Personnages/Mystique/4/::1693582997
 AoE proj1.png::CompressedTexture2D::538338065463516886::1651667778::1693582997::1::::<><>::
 AoE proj2.png::CompressedTexture2D::1827950545674621655::1651667778::1693582997::1::::<><>::
 AoE proj3.png::CompressedTexture2D::2405724335930262860::1651667778::1693582997::1::::<><>::
 AoE proj4.png::CompressedTexture2D::5081797252361448882::1651667778::1693582997::1::::<><>::
-::res://frames/Personnages/Mystique/marche/::1693580215
+::res://frames/Personnages/Mystique/marche/::1693582997
 mystique marche1.png::CompressedTexture2D::5926928847544377632::1651739272::1693582997::1::::<><>::
 mystique marche2.png::CompressedTexture2D::1952821421974060065::1651739272::1693582997::1::::<><>::
 mystique marche3.png::CompressedTexture2D::54857198721481447::1651739272::1693582997::1::::<><>::
 mystique marche4.png::CompressedTexture2D::8783874043691305531::1651739272::1693582997::1::::<><>::
 mystique marche5.png::CompressedTexture2D::3394757783515280567::1651739272::1693582997::1::::<><>::
-::res://frames/Personnages/nya/::1693580215
+::res://frames/Personnages/nya/::1693582997
 2.png::CompressedTexture2D::2426407338925869042::1638185054::1693582996::1::::<><>::
 5.png::CompressedTexture2D::2056461009957132272::1638274558::1693582996::1::::<><>::
 6.png::CompressedTexture2D::5221602069143078682::1638185052::1693582996::1::::<><>::
 flaque.png::CompressedTexture2D::2457358904481612699::1638185176::1693582996::1::::<><>::
 nya.png::CompressedTexture2D::473817665213659503::1638185038::1693582996::1::::<><>::
-::res://frames/Personnages/nya/marche/::1693580215
+::res://frames/Personnages/nya/marche/::1693582997
 nya marche1.png::CompressedTexture2D::4178337675976782401::1638185472::1693582997::1::::<><>::
 nya marche2.png::CompressedTexture2D::4143620186240035852::1638185472::1693582997::1::::<><>::
 nya marche3.png::CompressedTexture2D::5198873388857624966::1638185472::1693582997::1::::<><>::
 nya marche4.png::CompressedTexture2D::7567213144428848025::1638185472::1693582997::1::::<><>::
 nya marche5.png::CompressedTexture2D::5209529954770362001::1638185472::1693582997::1::::<><>::
-::res://frames/Personnages/nya/nya 2/::1693580215
+::res://frames/Personnages/nya/nya 2/::1693582997
 nya 2.png::CompressedTexture2D::2660947992187362502::1638185062::1693582997::1::::<><>::
 nya 3.png::CompressedTexture2D::4283539114394203031::1638185062::1693582997::1::::<><>::
-::res://frames/Personnages/nya/nya 5/::1693580215
+::res://frames/Personnages/nya/nya 5/::1693582997
 nya 5.png::CompressedTexture2D::2077380283528293364::1638185060::1693582997::1::::<><>::
 nya 6.png::CompressedTexture2D::5263772592454657354::1638185062::1693582997::1::::<><>::
-::res://frames/Personnages/nya/nya 6/::1693580215
+::res://frames/Personnages/nya/nya 6/::1693582997
 nya 6.png::CompressedTexture2D::6970187970642812661::1638528312::1693582997::1::::<><>::
 nya 7.png::CompressedTexture2D::3933112663498882276::1638528312::1693582997::1::::<><>::
-::res://frames/Personnages/nya/nya 6 AoE/::1693580215
+::res://frames/Personnages/nya/nya 6 AoE/::1693582996
 6 AoE1.png::CompressedTexture2D::6143264598480487035::1638879780::1693582996::1::::<><>::
 6 AoE2.png::CompressedTexture2D::1456854441267200757::1638879780::1693582996::1::::<><>::
 6 AoE3.png::CompressedTexture2D::4147155827010721452::1638879780::1693582996::1::::<><>::
@@ -195,14 +195,14 @@ nya 7.png::CompressedTexture2D::3933112663498882276::1638528312::1693582997::1::
 6 AoE9.png::CompressedTexture2D::1718384948232734152::1638879780::1693582996::1::::<><>::
 6 AoE10.png::CompressedTexture2D::2181061782563145274::1638879780::1693582996::1::::<><>::
 6 AoE11.png::CompressedTexture2D::897124121148767912::1638879780::1693582996::1::::<><>::
-::res://frames/Personnages/Sniper/::1693580215
+::res://frames/Personnages/Sniper/::1693582997
 balle 2.png::CompressedTexture2D::7991118614005496444::1641385660::1693582997::1::::<><>::
 grenade.png::CompressedTexture2D::8290713567652921086::1641385660::1693582997::1::::<><>::
 sniper 4 end.png::CompressedTexture2D::3766304701373455138::1641385660::1693582997::1::::<><>::
 sniper 4 slide.png::CompressedTexture2D::5176021235021572448::1641385660::1693582997::1::::<><>::
 sniper 4.png::CompressedTexture2D::4026030181642536131::1641385658::1693582997::1::::<><>::
 sniper.png::CompressedTexture2D::4206126048950712013::1641385658::1693582997::1::::<><>::
-::res://frames/Personnages/Sniper/balle/::1693580215
+::res://frames/Personnages/Sniper/balle/::1693582997
 balle 5.png::CompressedTexture2D::7916331087482340563::1641385660::1693582996::1::::<><>::
 balle 6.png::CompressedTexture2D::6847343231667679547::1641385660::1693582996::1::::<><>::
 balle 7.png::CompressedTexture2D::4086660128675292455::1641385660::1693582996::1::::<><>::
@@ -213,7 +213,7 @@ balle 11.png::CompressedTexture2D::7047952385766898242::1641385660::1693582997::
 balle 12.png::CompressedTexture2D::9027586170222573381::1641385660::1693582997::1::::<><>::
 balle 13.png::CompressedTexture2D::3803798727793069255::1641385660::1693582997::1::::<><>::
 balle 14.png::CompressedTexture2D::1559987360887612779::1641385660::1693582997::1::::<><>::
-::res://frames/Personnages/Sniper/explosion/::1693580216
+::res://frames/Personnages/Sniper/explosion/::1693582997
 explosion1.png::CompressedTexture2D::5152912243434035853::1641385660::1693582997::1::::<><>::
 explosion2.png::CompressedTexture2D::6991312266729230700::1641385660::1693582997::1::::<><>::
 explosion3.png::CompressedTexture2D::4146955585256696941::1641385660::1693582997::1::::<><>::
@@ -224,7 +224,7 @@ explosion7.png::CompressedTexture2D::3295317661793977508::1641385660::1693582997
 explosion8.png::CompressedTexture2D::1149956593587787066::1641385660::1693582997::1::::<><>::
 explosion9.png::CompressedTexture2D::4416718537654244200::1641385660::1693582997::1::::<><>::
 explosion10.png::CompressedTexture2D::3312809301201380015::1641385660::1693582997::1::::<><>::
-::res://frames/Personnages/Sniper/marche/::1693580216
+::res://frames/Personnages/Sniper/marche/::1693582997
 sniper marche1.png::CompressedTexture2D::8516574322941353594::1641385660::1693582997::1::::<><>::
 sniper marche2.png::CompressedTexture2D::4667987232915107952::1641385660::1693582997::1::::<><>::
 sniper marche3.png::CompressedTexture2D::4604077326803383781::1641385660::1693582997::1::::<><>::
@@ -234,29 +234,29 @@ sniper marche6.png::CompressedTexture2D::5409517871767893802::1641385660::169358
 sniper marche7.png::CompressedTexture2D::628602635851793851::1641385660::1693582997::1::::<><>::
 sniper marche8.png::CompressedTexture2D::6010089881068046623::1641385660::1693582997::1::::<><>::
 sniper marche9.png::CompressedTexture2D::6551701428411545257::1641385660::1693582997::1::::<><>::
-::res://frames/Personnages/Sniper/sniper 2/::1693580216
+::res://frames/Personnages/Sniper/sniper 2/::1693582997
 sniper 2.png::CompressedTexture2D::6830082356034962849::1641385660::1693582997::1::::<><>::
 sniper 3.png::CompressedTexture2D::8573901720221124944::1641385660::1693582997::1::::<><>::
 sniper 4.png::CompressedTexture2D::1882504221539052770::1641385660::1693582997::1::::<><>::
 sniper 5.png::CompressedTexture2D::6577366837203338287::1641385660::1693582997::1::::<><>::
 sniper 6.png::CompressedTexture2D::1951116097230261635::1641385660::1693582997::1::::<><>::
-::res://frames/Personnages/Sniper/sniper 2 2/::1693580216
+::res://frames/Personnages/Sniper/sniper 2 2/::1693582997
 sniper 2 2.png::CompressedTexture2D::1985797563655945229::1641385660::1693582997::1::::<><>::
 sniper 2 3.png::CompressedTexture2D::3141800261200006017::1641385660::1693582997::1::::<><>::
-::res://frames/Personnages/Sniper/sniper 5/::1693580216
+::res://frames/Personnages/Sniper/sniper 5/::1693582997
 sniper 5.png::CompressedTexture2D::8032866263936014295::1641385660::1693582997::1::::<><>::
 sniper 6.png::CompressedTexture2D::1808044772099457321::1641385660::1693582997::1::::<><>::
-::res://frames/Personnages/Sniper/sniper 6/::1693580215
+::res://frames/Personnages/Sniper/sniper 6/::1693582997
 sniper 6.png::CompressedTexture2D::3602524192553436439::1641385660::1693582997::1::::<><>::
 sniper 7.png::CompressedTexture2D::5945497065504540014::1641385660::1693582997::1::::<><>::
 sniper 8.png::CompressedTexture2D::1492396207129668141::1641385660::1693582997::1::::<><>::
 ::res://game/::1693582939
 ::res://game/entities/::1693582931
-::res://game/entities/player/::1693582910
-player.gd::GDScript::-1::1693582873::0::1::::<>Node<>::
-player.tscn::PackedScene::2366847964565295520::1693582819::0::1::::<><>::
-::res://game/entities/player/characters/::1693582889
-champion.gd::GDScript::-1::1693582889::0::1::::<>CharacterBody2D<>::
+::res://game/entities/player/::1693587485
+player.gd::GDScript::-1::1693587480::0::1::::<>Node<>::
+player.tscn::PackedScene::2366847964565295520::1693587485::0::1::::<><>::res://Game/Entities/Player/player.gd<>res://Game/Entities/Player/characters/champion.gd
+::res://game/entities/player/characters/::1693586756
+champion.gd::GDScript::-1::1693586756::0::1::::<>CharacterBody2D<>::
 ::res://OLD/::1693582655
 ::res://OLD/Scenes/::1693581749
 ::res://OLD/Scenes/Global/::1693581809
